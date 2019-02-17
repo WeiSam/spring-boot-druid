@@ -6,4 +6,8 @@ public class TestGIt {
         System.out.println("gitaospo");
         System.out.println("test2");
     }
+    
+    public void func(){
+    	
+    }
 }
